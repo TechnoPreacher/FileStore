@@ -1,0 +1,18 @@
+{
+    "name": "ns/file-store",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ns\\FileStore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TechnoPreacher",
+            "email": "nik.nik.sulima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
